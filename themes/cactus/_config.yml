@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/sykothekid
+projects_url: hhttp://bit.ly/jaygithub
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -25,9 +25,9 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/sykothekid
-  kaggle: /
-  linkedin: /
+  github: http://bit.ly/jaygithub
+  kaggle: http://bit.ly/jaykaggle
+  linkedin: http://bit.ly/jlinkedin
   mail: mailto:jay@jaysyko.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -120,8 +120,8 @@ disqus:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: false
-  id: UA-86660611-1
+  enabled: true
+  id: UA-131289335-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
