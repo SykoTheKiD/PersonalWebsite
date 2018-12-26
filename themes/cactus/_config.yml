@@ -14,18 +14,18 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  home: /
-  about: /about/
-  articles: /archives/
-  projects: projects_url
-
+  Home: /
+  About: /about/
+  Blog: /archives/
+  Projects: /projects/
+  Music: /music/
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: projects_url
+  github: https://github.com/sykothekid
   kaggle: /
   linkedin: /
   mail: mailto:jay@jaysyko.com
@@ -58,7 +58,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/logo.png
+  url: /images/swirl_logo.png
   gravatar: false
 
 # Customize the favicons.
@@ -75,10 +75,10 @@ favicon:
     url: /images/favicon.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /images/swirl_icon_android.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/swirl_icon_apple.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
