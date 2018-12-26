@@ -1,12 +1,52 @@
 [
     {
-       "name":"Hexo",
-       "url":"https://hexo.io/",
-       "desc":"A fast, simple & powerful blog framework"
+       "name":"Cats vs Dogs",
+       "url":"https://github.com/SykoTheKiD/CatsAndDogs",
+       "desc":"A beginner Convolutional Neural Network that identifies if a given picture contains a Dog or Cat"
     },
     {
-       "name":"Font Awesome",
-       "url":"http://fontawesome.io/",
-       "desc":"The iconic font and CSS toolkit"
+       "name":"Cereal Studies",
+       "url":"https://github.com/SykoTheKiD/LearningDataScience",
+       "desc":"A practice on exploring data given the cereal dataset"
+    },
+    {
+       "name":"Fast Fashion",
+       "url":"https://github.com/SykoTheKiD/FashionCNN",
+       "desc":"A multi-output CNN that classifies an article of clothing"
+    },
+    {
+       "name":"MNIST-CNN",
+       "url":"https://github.com/SykoTheKiD/MNIST-CNN",
+       "desc":"A beginner CNN that identifies if an image is of a digit 0 thru to 9"
+    },
+    {
+       "name":"CNN Text Classification",
+       "url":"https://github.com/SykoTheKiD/EmailSpamHamClassifier",
+       "desc":"A CNN that classifies emails as spam or not spam ( ham )"
+    },
+    {
+       "name":"KDot or TDot",
+       "url":"https://github.com/SykoTheKiD/KDotOrTDot",
+       "desc":"Classify if something is more likely to be said by either Drake or Kendrick Lamar"
+    },
+    {
+       "name":"Snake AI",
+       "url":"https://github.com/SykoTheKiD/SnakeAI",
+       "desc":"A multi-output CNN that classifies an article of clothing"
+    },
+    {
+       "name":"Cords",
+       "url":"https://github.com/SykoTheKiD/Cords",
+       "desc":"Use of the Artificial Intelligent algorithm to create an AI that plays tic-tac-toe"
+    },
+    {
+       "name":"Self-Driving Car",
+       "url":"https://github.com/SykoTheKiD/SelfDrivingCar",
+       "desc":"Uses Open CV and computer vision to teach a virtual car to drive"
+    },
+    {
+       "name":"Primetime Player",
+       "url":"https://github.com/SykoTheKiD/PrimetimePlayer",
+       "desc":"Predict the position played by a hockey player based on his/her stats"
     }
 ]
