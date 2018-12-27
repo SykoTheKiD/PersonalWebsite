@@ -30,7 +30,7 @@ An Android app that can identify what you are looking at
 * TensorFlow Lite
 * Java 8
 
-Link: [https://sykothekid.github.io/ClothesAndFood/]
+Link: https://sykothekid.github.io/ClothesAndFood/
 
 Self Driving Car
 ---------
