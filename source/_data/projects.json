@@ -1,7 +1,7 @@
 [
     {
        "name":"Cats vs Dogs",
-       "url":"https://github.com/SykoTheKiD/CatsAndDogs",
+       "url":"http://sykothekid.github.io/CatsAndDogs/",
        "desc":"A beginner Convolutional Neural Network that identifies if a given picture contains a Dog or Cat"
     },
     {
